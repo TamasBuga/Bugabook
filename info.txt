@@ -1,0 +1,8 @@
+PedroTech
+
+MySQL
+Sequelize
+NodeJS
+React
+Axios
+JWT
